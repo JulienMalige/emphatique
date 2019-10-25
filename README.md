@@ -1,2 +1,2 @@
 # emphatique
-JavaScript library to understand the feelings of your users
+JavaScript library to understand the mood of your users
